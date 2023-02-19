@@ -8,5 +8,9 @@
 </head>
 <body>
     <p>Paling terdepan</p>
+    <ul>
+        <li>Satu</li>
+        <li>Dua</li>
+    </ul>
 </body>
 </html>
